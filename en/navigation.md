@@ -1,5 +1,5 @@
 <!--
-  -- Name of your wiki
+  -- Lina Yao
   -- Do NOT remove the leading `#` character.
   -->
 
@@ -20,7 +20,11 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+[Research](pages/download.md)
+[Publication](pages/download.md)
+[CV](pages/download.md)
+[Hobbies](pages/download.md)
+[Contact](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
